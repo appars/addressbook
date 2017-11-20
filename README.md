@@ -1,6 +1,9 @@
 Appar Beta2 update:
 testing -1
 ************************************
+Modified redme for DevOPS demo 
+
+********************************
 
 Addressbook Tutorial
 ====================
