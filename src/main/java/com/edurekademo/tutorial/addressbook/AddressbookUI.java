@@ -71,7 +71,7 @@ public class AddressbookUI extends UI {
          */
         newContact.addClickListener(e -> contactForm.edit(new Contact()));
 
-        filter.setInputPrompt("I changed this after adding a remove build to check if its getting propagated across the pipeline.");
+        filter.setInputPrompt("This is Appar and I am testing changes after integrating with tomcat.");
         filter.addTextChangeListener(e -> refreshContacts(e.getText()));
 
         contactList
