@@ -71,7 +71,7 @@ public class AddressbookUI extends UI {
          */
         newContact.addClickListener(e -> contactForm.edit(new Contact()));
 
-        filter.setInputPrompt("This is Appar and I am testing changes after integrating with tomcat.");
+        filter.setInputPrompt("Testing for RelQSoft DevOPs training");
         filter.addTextChangeListener(e -> refreshContacts(e.getText()));
 
         contactList
