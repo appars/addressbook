@@ -71,7 +71,7 @@ public class AddressbookUI extends UI {
          */
         newContact.addClickListener(e -> contactForm.edit(new Contact()));
 
-        filter.setInputPrompt("Testing for RelQSoft DevOPs training");
+        filter.setInputPrompt("Testing by Appar after devops pipeline automation");
         filter.addTextChangeListener(e -> refreshContacts(e.getText()));
 
         contactList
