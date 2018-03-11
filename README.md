@@ -1,8 +1,5 @@
-Modifd on 9th Feb after jenkins integration
+Release 1.0 on 11th March 2018
 
-
-
-Modified redme for DevOPS demo 
 
 ********************************
 
