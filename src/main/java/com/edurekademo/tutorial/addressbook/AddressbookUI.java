@@ -6,7 +6,7 @@ import com.vaadin.annotations.Theme;
 import com.vaadin.annotations.Title;
 import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.annotations.Widgetset;
-import com.vaadin.server.VaadinRequest;
+import com.vaadin.server.VaainRequest;
 import com.vaadin.server.VaadinServlet;
 import com.edurekademo.tutorial.addressbook.backend.Contact;
 import com.edurekademo.tutorial.addressbook.backend.ContactService;
@@ -71,7 +71,7 @@ public class AddressbookUI extends UI {
          */
         newContact.addClickListener(e -> contactForm.edit(new Contact()));
 
-        filter.setInputPrompt("Addressbook Release 5.1");
+        filter.setInputPrompt("Addressbook Release 5.2");
         filter.addTextChangeListener(e -> refreshContacts(e.getText()));
 
         contactList
