@@ -1,5 +1,5 @@
 
-Release 3.0 on 26th Aug 2018 at 9.30am
+Release 4.0 on 26th Aug 2018 after integrating with Jenkins
 
 
 ********************************
