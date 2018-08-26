@@ -1,5 +1,5 @@
 
-Release 2.0 on 26th Aug 2018
+Release 2.0 on 26th Aug 2018 at 9am
 
 
 ********************************
