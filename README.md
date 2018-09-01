@@ -1,5 +1,5 @@
 
-Release 4.5 on 26th Aug 2018 after integrating with Jenkins (pipeline)  changed
+Release 5.0 on 1st Sep after integrating with Jenkins (pipeline)
 
 
 ********************************
