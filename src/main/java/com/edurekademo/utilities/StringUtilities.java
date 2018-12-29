@@ -133,7 +133,7 @@ public class StringUtilities {
 
 		Class<?> finalClass = null ;
 		//If value or type passed is null or empty or string return back value as such
-		if (value == null) || value.isEmpty() || types == null || types.isEmpty() || types.equalsIgnoreCase(STRING_TYPE)  return value;
+		if ((value == null) || value.isEmpty() || types == null || types.isEmpty() || types.equalsIgnoreCase(STRING_TYPE))  return value;
 
 		String type = types.toLowerCase();
 		
